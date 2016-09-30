@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/jgreat/powerdns"
+	"github.com/lgoehrs/powerdns"
 	"github.com/rancher/external-dns/providers"
 	"github.com/rancher/external-dns/utils"
 )
